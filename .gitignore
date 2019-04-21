@@ -1,2 +1,8 @@
 *.iml
 .idea
+!.keep
+
+website-dest/*
+website-source
+
+avaje-website-generator-2.1.2.jar

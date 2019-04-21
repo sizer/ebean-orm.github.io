@@ -12,12 +12,6 @@ Source for the website for Ebean ORM.
 - git clone git@github.com:ebean-orm/website-source.git
 
 
-### 2. Make a destination directory
-
-```bash
-mkdir website-dest
-```
-
 ### 2. Download avaje-website-generator-2.1.2.jar
 
 - download https://repo1.maven.org/maven2/org/avaje/avaje-website-generator/2.1.2/avaje-website-generator-2.1.2.jar
